@@ -1,0 +1,63 @@
+https://www.facebook.com/ajax/mercury/change_read_status.php*
+https://www.facebook.com/ajax/mercury/tabs_presence.php*
+https://www.facebook.com/ajax/presence/reconnect.php*
+https://www.facebook.com/ajax/messaging/typ.php
+
+wss://edge-chat.facebook.com/chat*
+wss://edge-chat.messenger.com/chat*
+https://*-edge-chat.facebook.com/*
+https://apps.facebook.com/ajax/presence/reconnect.php*
+https://www.facebook.com/marketplace/pdp-time-spent/
+
+!Facebook Mobile Web version
+https://m.facebook.com/a/channel/reconnect.php*
+https://m.facebook.com/a/jewel_messages_read.php
+https://m.facebook.com/messages/read/*
+https://edge-chat.facebook.com/*
+
+!Messenger
+https://www.messenger.com/ajax/mercury/change_read_status.php*
+https://www.messenger.com/ajax/mercury/tabs_presence.php*
+https://www.messenger.com/ajax/presence/reconnect.php*
+https://www.messenger.com/ajax/messaging/typ.php
+https://*edge-chat.messenger.com/*
+
+mangaking.net###controlicon > div
+autolinkach.com##script:inject(abort-on-property-read.js, adBlockDetected)
+linkach.com##script:inject(abort-on-property-read.js, adBlockDetected)
+
+! 7/8/2018, 2:08:02 PM https://www.reddit.com/
+www.reddit.com##.redesign-beta-optin
+
+old.reddit.com###redesign-beta-optin-btn
+
+! 4/5/2019 https://www.reddit.com
+www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
+www.facebook.com##div[id^=hyperfeed_story_id_]:has(a[role^=button]:has(> span:has-text(/S/i):has-text(p):has-text(o):has-text(n):has-text(r):has-text(e):has-text(d):not(:has-text(0)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(:has-text(9))))
+avgle.com###adxp
+avgle.com##div.alert-danger.alert-dismissable.alert:nth-of-type(17)
+avgle.com##div.alert-danger.alert-dismissable.alert:nth-of-type(18)
+
+! 4/22/2019 https://www.kalibrr.com
+www.kalibrr.com##.browser-supported-blocker--modal
+www.kalibrr.com##.browser-supported-blocker--backdrop
+
+! 6/8/2019 https://animepahe.com
+animepahe.com##.hidden-sm-down.prequel
+indeed.com.ph##div.row.result[id^="pj_"]
+
+! 3/29/2020 https://www.facebook.com
+www.facebook.com###fbpurityinfowrapper
+www.facebook.com###FBPBUTT
+
+! 4/5/2020 https://amp.reddit.com
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com###dismissOverlay
+! 4/5/2020 https://amp-reddit-com.cdn.ampproject.org
+amp-reddit-com.cdn.ampproject.org##.AppSelectorModal__body
+amp-reddit-com.cdn.ampproject.org###dismissOverlay
+! 4/5/2020 https://www.reddit.com
+www.reddit.com##.m-animated.XPromoPopup__content
+www.reddit.com##.m-animated.XPromoPopup__overlay
+www.reddit.com##.TopNav__topButton.TopButton
